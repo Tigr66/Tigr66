@@ -37,8 +37,12 @@ I enjoy building modern web applications, solving real-world problems, and conti
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![React Toastify](https://img.shields.io/badge/React_Toastify-FCA311?style=for-the-badge&logo=react&logoColor=white)
+![React Error Boundary](https://img.shields.io/badge/React_Error_Boundary-FF6B6B?style=for-the-badge&logo=react&logoColor=white)
 
 ### Backend
 
@@ -48,6 +52,13 @@ I enjoy building modern web applications, solving real-world problems, and conti
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Apollo Server](https://img.shields.io/badge/Apollo_Server-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)
 ![Prisma ORM](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Multer](https://img.shields.io/badge/Multer-FF5722?style=for-the-badge&logo=node.js&logoColor=white)
+![Class Validator](https://img.shields.io/badge/Class_Validator-FF6B6B?style=for-the-badge&logo=typescript&logoColor=white)
+![Nanoid](https://img.shields.io/badge/Nanoid-00D9FF?style=for-the-badge&logo=javascript&logoColor=white)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-FF6B6B?style=for-the-badge&logo=node.js&logoColor=white)
+![Lodash](https://img.shields.io/badge/Lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=white)
+![Node Cron](https://img.shields.io/badge/Node_Cron-4CAF50?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Database
 
@@ -99,6 +110,11 @@ I enjoy building modern web applications, solving real-world problems, and conti
 ## 📫 Get In Touch
 
 <div align="center">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/тигран-гареев-5107363bb" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
   <!-- Instagram -->
   <a href="https://instagram.com/tigrgareev" target="_blank">
