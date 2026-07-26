@@ -126,6 +126,16 @@ I enjoy building modern web applications, solving real-world problems, and conti
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 
+  <!-- GitLab -->
+  <a href="https://gitlab.com/gareevtigran" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  </a>
+
+  <!-- Discord -->
+  <a href="https://discord.com/users/1359966889274773616" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+
 </div>
 
 ---
