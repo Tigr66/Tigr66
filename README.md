@@ -84,10 +84,10 @@ I enjoy building modern web applications, solving real-world problems, and conti
 <div align="center">
 
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Tigr66&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9&card_width=495" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tigr66&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9" alt="GitHub Stats" />
 
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tigr66&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&card_width=495" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tigr66&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9" alt="Top Languages" />
 
   <!-- GitHub Streak Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tigr66&theme=dark&hide_border=true&bg_color=0D1117&stroke=39D353&ring=39D353&fire=39D353&currStreakNum=C9D1D9&currStreakLabel=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
