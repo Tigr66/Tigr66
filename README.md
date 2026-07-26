@@ -59,6 +59,7 @@ I enjoy building modern web applications, solving real-world problems, and conti
 ![Bcrypt](https://img.shields.io/badge/Bcrypt-FF6B6B?style=for-the-badge&logo=node.js&logoColor=white)
 ![Lodash](https://img.shields.io/badge/Lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=white)
 ![Node Cron](https://img.shields.io/badge/Node_Cron-4CAF50?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Database
 
